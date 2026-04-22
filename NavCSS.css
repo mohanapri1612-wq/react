@@ -1,0 +1,10 @@
+.navbarcls{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: auto;
+    border: 1px solid blue;
+    padding: 1em;
+    margin: auto;
+    background-color: goldenrod;
+}
